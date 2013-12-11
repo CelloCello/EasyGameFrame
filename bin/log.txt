@@ -1,0 +1,20 @@
+HGE Started..
+
+HGE version: 1.80
+Date: 10.12.2013, 22:01:52
+
+Application: GameDemo - Test v0.1a
+OS: Windows 6.1.7601
+Memory: 4194303K total, 3978824K free
+
+D3D Driver: aticfx32.dll
+Description: ATI Radeon HD 4800 Series
+Version: 8.17.10.1129
+Mode: 800 x 600 x X8R8G8B8
+
+Init done.
+
+22:01:53 GameDemo Really Start!!!!!!
+
+Finishing..
+The End.
